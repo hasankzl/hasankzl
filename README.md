@@ -11,9 +11,8 @@
 - personal blog www.reasonforexception.com
 ### Connect with me:
 
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -39,5 +38,6 @@
 <br />
 
 [instagram]: https://instagram.com/mhasan.kzl
+[linkedin]: https://www.linkedin.com/in/mustafa-hasan-kuzulu-86302019b/
 ---
 
